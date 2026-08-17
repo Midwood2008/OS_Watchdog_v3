@@ -1,0 +1,8 @@
+config.py
+config.py.save
+__pycache__/
+*.pyc
+
+watchdogOG.py
+watchdogOG2.py
+watchdogOG3.py
