@@ -198,4 +198,4 @@ def start_dashboard(shared_state):
     global state
     state = shared_state
 
-    app.run(host="0.0.0.0", port=5000, debug=False)
+    app.run(host="0.0.0.0", port=5001, debug=False)
